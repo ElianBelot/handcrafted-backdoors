@@ -3,7 +3,7 @@
 <p align="center">
 <a href="#"><img src="https://i.ibb.co/fXpNrGq/image.png"></a>
 <h3 align="center">Handcrafted Backdoors in Deep Neural Networks</h3>
-<p align="center">Introducing backdoors in neural networks through parameter-level manipulation.</p>
+<p align="center">Introducing backdoors in pre-trained neural networks through parameter-level manipulation.</p>
 
 <!--- About --><br />
 ## About
